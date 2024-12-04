@@ -1,9 +1,4 @@
-## Hello, Git!
+## Welcome to Git!
 
+- This is coming from branch2
 - i am adding this from 'branch-nametwo'
-
-- i am gonna change this
-
-- it will work or not
-
-- it is new branch
