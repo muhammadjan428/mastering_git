@@ -1,9 +1,6 @@
-## Hello, Git!
+## Hello, everybody welcome to my git i am here because i am branch3!
 
-- i am adding this from 'branch-nametwo'
+- hi here bro
 
-- i am gonna change this
-
-- it will work or not
 
 - it is new branch
